@@ -23,3 +23,22 @@ html, body {
     font-size: 20px !important;
     font-family: 'Pacifico';
 }
+
+/*jumbotron*/
+.jumbotron {
+    background-image: url(cookingimages/cookingimage1.png); alt: cooking image;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    margin: 0 auto;
+}
+.jumbotron h1{
+    color: rgb(75, 121, 206);
+    font-family: 'Pacifico';
+    text-align: center;
+    margin-top: 160px;
+}
+.red-text {
+    color: red;
+}
