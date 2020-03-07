@@ -42,3 +42,30 @@ html, body {
 .red-text {
     color: red;
 }
+.welcome {
+    background-color:#FAEBEFFF;
+    font-family: 'Lobster';
+    color: #333D79FF;
+}
+
+/*about us*/
+#kitchen , #prices , #ourchefs {
+    background-color: #333D79FF;
+    color: #FAEBEFFF;
+    font-family: 'lobster';
+    border: solid; 
+    border-color: rgb(240, 238, 238);
+}
+.image-fluid {
+    width: 100%;
+}
+#cuisineimage , .kitchenimage , #founderimage {
+    height: 100%;
+    border-radius: 20px;
+}
+.logoname {
+    color: rgb(5, 5, 105);
+    font-weight: bolder; 
+    font-size: 20px;
+    font-family: 'lobster';
+}
