@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color: #000000;
+    background-color: rgb(249, 250, 233);
+}
+
+/*navbar*/
+.navbar-brand img, toggler img{
+    height: 65px;
+    background-color: white;
+}
+.navbar{
+    padding: 10px;
+}
+.navbar-nav li {
+    padding-right: 30px;
+    justify-content: space-between;
+}   
+.nav-link {
+    font-size: 20px !important;
+    font-family: 'Pacifico';
+}
