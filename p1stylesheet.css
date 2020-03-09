@@ -26,7 +26,7 @@ html, body {
 
 /*jumbotron*/
 .jumbotron {
-    background-image: url(cookingimages/cookingimage1.png); alt: cooking image;
+    background-image: url(cookingimages/cookingimage1.jpg); alt: cooking image;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
