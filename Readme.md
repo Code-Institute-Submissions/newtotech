@@ -1,7 +1,7 @@
 # Foodelicious website
 ## Project 1: User-Centric Frontend Development - Code Institute
 ### **Introduction**
-Foodelicious is a fictional company providing cooking classes for those who wanted to learn how to cook but do not know how, or for those who wanted to observe and learn from pro chefs up close. With this website, they wanted to showcase their outstanding facilities and chefs to attract those who want to enjoy simple home cooked food or pro chefs wannabes.  
+Foodelicious is a fictional company providing cooking classes for those who wanted to learn how to cook but do not know how, or for those who wanted to observe and learn from pro chefs up close. With this website, we wanted to showcase our outstanding facilities and chefs to attract those who want to enjoy simple home cooked food or pro chefs wannabes.  
 The link is as follows: [click here](https://blitzace90.github.io/newtotech/)  
 The website contains the following information:
 
@@ -15,7 +15,7 @@ The website contains the following information:
 - Images of cuisines  
 
 **3. Our chefs**
-- Photos of some chefs
+- Photos of our chefs
 - Background of our chefs
   
 **4. Our rates**
