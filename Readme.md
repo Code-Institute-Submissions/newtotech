@@ -72,6 +72,7 @@ When the user first arrive at the website:
 - Chatbot can be added for the staff to communicate easily to users
 - Adding more information about the chefs. Clicking the profile of the chef will lead user to a separate page which shows their achievements, awards, as well as some of their finest dishes. 
 - A function which allows the user to self customise the classes as well as selection of the cuisines and chefs they wanted, while showcasing the chefs schedules.
+- The send button will send the information to a database
 
 ***
 
