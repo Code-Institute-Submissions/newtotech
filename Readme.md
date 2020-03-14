@@ -112,7 +112,7 @@ Bugs found:
 
 ### **Deployment**
 
-The site is hosted using Github pages and deployed from the master branch. Code is written using visual studio code and utilised gitpod to push to github. Under the repository, you will see
+The site is hosted using Github pages and deployed from the master branch. Utilising gitpod, the information are commited and pushed from gitpod to github. Under the repository, you will see
 - A separate file for HTML
 - A separate file for CSS 
 - A separate folder for images
