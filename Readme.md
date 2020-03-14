@@ -106,7 +106,6 @@ Basic checks include:
 
 Bugs found:
 - The send button does not send the information anywhere and its just a button
-- Youtube video not responsive, size does not shrink when viewed in mobile
 - Carousel not working for internet explorer
 
 ***
